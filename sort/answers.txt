@@ -1,0 +1,11 @@
+sort1 uses: BubbleSort
+
+How do you know?: Porque es el que mas rapido ordena las listas ordenadas
+
+sort2 uses: MergeSort
+
+How do you know?: Es el mas rapido que ordenda las listas desordenadas
+
+sort3 uses: SelectionSort
+
+How do you know?: Era la unica opcion que quedaba xd
